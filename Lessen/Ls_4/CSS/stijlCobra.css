@@ -1,0 +1,36 @@
+html, body { margin: 0; padding: 0;}
+
+body {
+    font-family: sans-serif;
+    background-color: #01a501;
+    color: #04e9d6;
+}
+
+nav {
+    background-color: #215a21;
+    height: 39px;
+}
+nav a {
+    display: block;
+    color: #ccc;
+    text-decoration: none;
+    width: 200px;
+    padding: 5px 10px;
+    float: left;
+    text-align: center;
+}
+nav a:hover {
+    background-color: rgb(6, 66, 6);
+}
+h1 {
+    clear: both;
+    margin: 0;
+    padding: 30px;
+    color: white;
+    background-color: red;
+    font-family: Cambria, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    max-width: 100%;
+}
