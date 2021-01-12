@@ -10,3 +10,5 @@ Live server:
         http//31799.hosts1.ma-cloud.nl/Lessen/Ls_3/DisplayTypes.html
     Les 4
         http//31799.hosts1.ma-cloud.nl/Lessen/Ls_4/index.html
+    Les 5
+        http//31799.hosts1.ma-cloud.nl/Lessen/Ls_5/index.html
